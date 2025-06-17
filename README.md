@@ -1,0 +1,3 @@
+# Sysnergym
+
+Data acquisition, preprocessing
