@@ -76,3 +76,6 @@ cython_debug/
 # 📁 naver_img 내부 데이터 & 결과물 제외
 /naver_img/*.csv
 /naver_img/imgs/
+
+
+*_data/
